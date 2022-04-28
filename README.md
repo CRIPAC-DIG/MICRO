@@ -1,6 +1,6 @@
 # MIRCO
 
-PyTorch implementation for paper: Latent Structures Mining with Contrastive Modality Fusion for Multimedia Recommendation
+PyTorch implementation for paper: [Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation](https://arxiv.org/abs/2111.00678)
 
 
 
