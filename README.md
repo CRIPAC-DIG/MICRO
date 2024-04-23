@@ -1,6 +1,6 @@
 # MIRCO
 
-<img src="mirco.png" alt="model" style="zoom: 50%;" />
+<img src="micro.png" alt="model" style="zoom: 50%;" />
 
 This is the code for the Paper: [Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9950351).
 
